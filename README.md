@@ -13,5 +13,5 @@ Exercises of the web mapping meeting of GeoinquietosMadrid.
 
 
 ## Tools used 
-[Dillinger](http://dillinger.io/)
-[StackEdit](https://stackedit.io/editor)
+* [Dillinger](http://dillinger.io/)
+* [StackEdit](https://stackedit.io/editor)
