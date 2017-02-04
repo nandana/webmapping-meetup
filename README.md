@@ -10,6 +10,8 @@ Exercises of the web mapping meeting of GeoinquietosMadrid.
 
 2. Maps on the web
 	* [Maps on the web](https://docs.google.com/presentation/d/11OvKr9PNxIurWCe3Q9ahy92YQyJ4K0vRtNWQY8xbnq0/edit?usp=sharing)
+3. Interesting examples
+       * [Ramiro Aznar’s Blocks](https://bl.ocks.org/ramiroaznar)
 
 
 ## Tools used 
