@@ -14,6 +14,7 @@ Exercises of the web mapping meeting of GeoinquietosMadrid.
        * [Ramiro Aznar’s Blocks](https://bl.ocks.org/ramiroaznar)
 4. Leaflet example
        * [Leaflet example](http://plnkr.co/edit/fE9VWG5AIBmVC8NjOCyZ?p=info)
+       * [Leaflet map providers](https://leaflet-extras.github.io/leaflet-providers/)
 
 
 ## Tools used 
