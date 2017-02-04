@@ -13,6 +13,8 @@ Exercises of the web mapping meeting of GeoinquietosMadrid.
 3. Interesting examples
        * [Ramiro Aznar’s Blocks](https://bl.ocks.org/ramiroaznar)
        * [Ernesto Martínez Becerra’s Blocks](https://bl.ocks.org/ernesmb)
+       * [Jorge Sanz’s Blocks](https://bl.ocks.org/jsanz)
+       * [oriolbx’s Blocks](https://bl.ocks.org/oriolbx)
 4. Leaflet example
        * [Leaflet tutorial](https://github.com/GeoinquietosMadrid/webmapping/blob/master/secciones/leaflet.md)
        * [Leaflet example](http://plnkr.co/edit/fE9VWG5AIBmVC8NjOCyZ?p=info)
